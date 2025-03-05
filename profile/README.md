@@ -27,7 +27,7 @@ We welcome contributions to our public repositories! To contribute:
 4. Push your branch (`git push origin feature-branch`).
 5. Submit a pull request for review.
 
-Please ensure you follow our [code of conduct](./CODE_OF_CONDUCT.md) and adhere to best practices outlined in the repository.
+Please make sure you follow our [code of conduct](./CODE_OF_CONDUCT.md) and follow the best practices outlined in the repository.
 
 ## Security and Access
 - Private repositories require proper authorization.
@@ -37,7 +37,7 @@ Please ensure you follow our [code of conduct](./CODE_OF_CONDUCT.md) and adhere 
 ## Contact
 For questions or support, reach out via:
 - Email: support@ouvinteinc.com
-- Website: [www.ouvinteinc.io](https://www.ouvinteinc.io)
+- Website: [www.ouvinte.io](https://www.ouvinte.io)
 
 ---
 
